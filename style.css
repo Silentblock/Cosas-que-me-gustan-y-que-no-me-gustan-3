@@ -1,0 +1,34 @@
+*{
+    
+    
+    
+    margin:0;
+        padding:0;
+}
+
+Body{
+    background-color:lightskyblue;
+    
+    
+    
+    
+    
+
+
+        
+    color:#333;
+    font-family:'Indie Flower', cursive;;
+    max-width: 960px;
+    margin:0 auto;
+    font-size:16px;
+    
+    
+        
+    
+}
+
+h1{
+    color:red
+}
+
+h3{color:darkblue}
